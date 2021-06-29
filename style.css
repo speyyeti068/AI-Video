@@ -25,7 +25,7 @@ body{
 
 canvas{
     box-shadow: 5px 5px 5px red;
-    margin-top: 130px;
+    margin-top: 80px;
     border-radius: 10px;
     border: white solid 2px;
 }
